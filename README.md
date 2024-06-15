@@ -1,3 +1,2 @@
 # postgrado-full-stack-v5
-
-Adhemar Duran Gahuincha
+Juan Efrain Paucara Casas
