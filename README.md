@@ -1,3 +1,2 @@
-# postgrado-full-stack-v5
-
-Adhemar Duran Gahuincha
+# postgrado-full-stack-v
+Maria del Rosario Nina Yucra
