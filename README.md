@@ -1,3 +1,2 @@
 # postgrado-full-stack-v5
-
-Adhemar Duran Gahuincha
+GRACIELA JHOVANA CAYO CONDORI
