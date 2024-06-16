@@ -1,3 +1,43 @@
 # postgrado-full-stack-v5
 
 Adhemar Duran Gahuincha
+Wilbert Cristian Condori
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
